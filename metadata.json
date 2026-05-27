@@ -1,0 +1,6 @@
+{
+  "name": "Aura Music",
+  "description": "Um reprodutor de música simples e elegante em Material 3 para Android, com suporte para listas de músicas do telefone e playlists customizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

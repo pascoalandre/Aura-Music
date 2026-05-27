@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Neon green circular outline for modern feel -->
+    <path
+        android:pathData="M54,54m-30,0a30,30 0,1 1,60 0a30,30 0,1 1,-60 0"
+        android:strokeWidth="3.0"
+        android:strokeColor="#00E676"
+        android:strokeLineCap="round" />
+
+    <!-- Sleek centralized equalizer visual lines representation -->
+    <path
+        android:pathData="M38,58 L38,50 M44,64 L44,44 M50,68 L50,40 M56,62 L56,46 M62,66 L62,38 M68,60 L68,48 M70,55 L70,53"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeColor="#00E676" />
+        
+</vector>
